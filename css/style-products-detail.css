@@ -1,6 +1,7 @@
 .breadcrumb-wrapper {
     background-color: #e9ecef;
     padding-top: 40px;
+    margin-top: 12px;
 }
 .breadcrumb-title {
     text-align: center;
