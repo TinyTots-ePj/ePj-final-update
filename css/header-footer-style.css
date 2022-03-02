@@ -104,6 +104,10 @@ header .nav-item {
 /*---------*/
 
 /*Footer Style*/
+section.footer-section {
+    background-color: #f6f6f6;
+    margin-top: 5px;
+}
 footer{
     margin-bottom: -100px;
     clear: both;
